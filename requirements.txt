@@ -1,0 +1,15 @@
+Django==2.2.10
+django-allauth
+django-cors-headers
+django-leaflet
+django-rest-auth
+djangorestframework
+markdown
+django-filter
+oauthlib
+pytz
+requests
+requests-oauthlib
+six
+sqlparse
+psycopg2
